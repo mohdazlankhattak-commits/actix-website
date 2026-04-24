@@ -1,7 +1,6 @@
 ---
 title: Welcome
-description: Guiding you through building web apps with Actix
-slug: /
+description: banned : /
 ---
 
 # Welcome to Actix
